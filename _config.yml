@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Jaehun Lee" # Your Name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "2025 ~ KAIST\n2016 ~ Samsung Electronics" # I am an **amazing** person."
+  bio              : "2025 ~ KAIST, 2016 ~ Samsung Electronics" # I am an **amazing** person."
   location         : "Seoul, Daejeon" # Somewhere
   email            :
   links:
