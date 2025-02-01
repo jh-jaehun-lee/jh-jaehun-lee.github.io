@@ -26,6 +26,12 @@ featured: true  # 메인 페이지에 강조 표시할 포스트인지 여부
 
 ### 이미지 추가
 {% include image.html file="/assets/images/example.jpeg" alt="my image" %}
+{% include image.html file="/assets/images/example.jpeg" alt="my image" style="width: 300px;" %}
+{% include image.html file="/assets/images/example.jpeg" alt="my image" style="height: 200px;" %}
+{% include image.html file="/assets/images/example.jpeg" alt="my image" style="width: 50%;" %}
+{% include image.html file="/assets/images/example.jpeg" alt="my image" style="width: 300px; height: auto;"%}
+
+
 
 ### 코드 블록
 

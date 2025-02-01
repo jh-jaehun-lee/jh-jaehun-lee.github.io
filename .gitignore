@@ -33,3 +33,6 @@ _site
 
 # image ?
 assets/images/*
+
+# test
+_posts/*test.md
